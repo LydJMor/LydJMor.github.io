@@ -10,4 +10,6 @@ body {
   background-color: lightgoldenrodyellow;
 }
 
-
+ul {
+  text-indent: 50px;
+}
